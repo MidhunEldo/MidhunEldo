@@ -1,7 +1,7 @@
 ## Hi I'm Midhun Eldo! 👋
 
 # 💫 About Me:
-DevOps Intern at 2 cloud<br>🔧 Passionate about devolopment, automation and cloud infrastructure<br>💻 Currently working with AWS, Terraform, and Magento<br>🌱Waiting for explore my skills.<br>🔗 Let's connect: www.linkedin.com/in/midhun-eldo-270947224<br>
+🚀DevOps Intern at 2 cloud<br>🔧 Passionate about devolopment, automation and cloud infrastructure<br>💻 Currently working with AWS, Terraform, and Magento<br>🌱Waiting for explore my skills.<br>🔗 Let's connect: www.linkedin.com/in/midhun-eldo-270947224<br>
 
 
 ## 🌐 Socials:
